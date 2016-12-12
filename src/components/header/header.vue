@@ -297,7 +297,7 @@
         },
         data(){
           return{
-            detailShow:false
+            detailShow:false,
           }
         },
         created(){
